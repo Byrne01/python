@@ -128,4 +128,17 @@
   128  juypter notebook
   129  jupyter notebook
   130  history
+  131  git init
+  113  ls
+  114  git add setup 
+  115  git commit -m "First commit"
+  116  git add Screenshot\ from\ 2018-01-18\ 18-00-34.png 
+  117  git commit -m "Second commit"
+  118  git log
+  119  git remote add githubRepo https://github.com/Byrne01/python.git
+  120  git push -u githubRepo master 
+
+
+
+
 
