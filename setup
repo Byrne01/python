@@ -1,0 +1,131 @@
+1  sudo ifconfig
+    2  dpkg -l | grep -vm
+    3  dpkg -l | grep open -vm
+    4  dpkg -l | grep open-vm
+    5  sudo apt-get update 
+    6  sudo apt-get upgrade -y
+    7  sudo reboot
+    8  sudo apt-get install open-vm-tools-desktop 
+    9  sudo reboot
+   10  sudo
+   11  su
+   12  cd Downloads/
+   13  ls
+   14  sudo chmod 777 Anaconda2-5.0.1-Linux-x86_64.sh 
+   15  ls
+   16  bash Anaconda2-5.0.1-Linux-x86_64.sh 
+   17  juypter notebook
+   18  jupyter notebook
+   19  sudo jupyter notebook
+   20  apt install python-pip
+   21  jupyter notebook
+   22  sudo jupyter notebook
+   23  python -m pip install --upgrade pip
+   24  apt install python-pip --upgrade pip
+   25  pip install --upgrade pip
+   26  python3 -m pip install jupyter
+   27  python -m pip install jupyter
+   28  apt-get install python-setuptools
+   29  jupyter notebook
+   30  sudo apt-get install python-setuptools
+   31  jupyter notebook
+   32  sudo reboot
+   33  jupyter notebook
+   34  sudo apt-get install git
+   35  git --version
+   36  git config --global user.name "Byrne01"
+   37  git config --global user.email  "seamusbyrne01@gmail.com"
+   38  mkdir project
+   39  ls
+   40  cd project/
+   41  ls
+   42  history
+   43  echo "# minty" >> README.md
+   44  ls
+   45  git init
+   46  git add README.md
+   47  git commit -m "first commit"
+   48  git remote add origin https://github.com/Byrne01/minty.git
+   49  git push -u origin master
+   50  ls
+   51  git add config 
+   52  git commit -m "This is my mint base config"
+   53  git push -u origin master
+   54  history
+   55  git add config_with_git 
+   56  git commit -m "This is my mint base config with git setup"
+   57  git push -u origin master
+   58  ls
+   59  git add code1.ipynb 
+   60  git commit -m "Test code"
+   61  git push -u origin master
+   62  ls
+   63  git add code1.ipynb 
+   64  git commit -m "Test code"
+   65  git push -u origin master
+   66  ls
+   67  cd project/
+   68  ls
+   69  juypter notebook
+   70  jupyter notebook
+   71  sudo apt-get update 
+   72  ./
+   73  cd ./
+   74  .
+   75  cd .
+   76  #ls
+   77  cd ..
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd ..
+   82  ls
+   83  sudo apt-get upgrade -y
+   84  cd project/
+   85  ls
+   86  jupyter notebook
+   87  ls
+   88  git add code2.ipynb 
+   89  git commit -m "Code2 test"
+   90  git push -u origin master
+   91  ls
+   92  cd project
+   93  ls
+   94  cd test_folder/
+   95  ls
+   96  git init
+   97  git status
+   98  git add test 
+   99  git status
+  100  git commit -m "Test file"
+  101  git log
+  102  pwd
+  103  git log
+  104  ls
+  105  ls -la
+  106  git init
+  107  git status
+  108  ls
+  109  ls -la
+  110  git add config_main 
+  111  git status
+  112  git commit -m "Snapshot1"
+  113  git log
+  114  git status
+  115  ls
+  116  git add Screenshot\ from\ 2018-01-18\ 17-17-58.png 
+  117  git commit -m "Screenshot"
+  118  git status
+  119  git add setup 
+  120  ls
+  121  git commit -m "commit3"
+  122  git status
+  123  git remote add githubRepo https://github.com/Byrne01/tests.git
+  124  git remote
+  125  git push -u githubRepo master
+  126  ld
+  127  ls
+  128  juypter notebook
+  129  jupyter notebook
+  130  history
+
